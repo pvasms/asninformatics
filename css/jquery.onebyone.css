@@ -231,8 +231,8 @@
 .onebyone .oneByOne_item#slide-02 h3 {float:right;clear:both;width:372px;}
 
 .onebyone .oneByOne_item#slide-03 h1 {width:334px;}
-.onebyone .oneByOne_item#slide-03 h2 {width:314px;}
-.onebyone .oneByOne_item#slide-03 h3 {width:100px;}
+.onebyone .oneByOne_item#slide-03 h2 {width:334px;}
+.onebyone .oneByOne_item#slide-03 h3 {width:334px;}
 .onebyone .oneByOne_item#slide-03 .lens {left:392px;z-index:20;top:139px;position:absolute;}
 .onebyone .oneByOne_item#slide-03 .lens#one {left:738px;top:155px;}
 .onebyone .oneByOne_item#slide-03 .lens#two {left:528px;top:50px;}
@@ -244,9 +244,9 @@
 .onebyone .oneByOne_item#slide-03 .button {left:0;top:70px;position:relative;}
 .onebyone .oneByOne_item#slide-03 p {max-width:356px;}
 
-.onebyone .oneByOne_item#slide-01 h1 {width:531px;}
-.onebyone .oneByOne_item#slide-01 h2 {width:283px;}
-.onebyone .oneByOne_item#slide-01 h3 {width:104px;}
+.onebyone .oneByOne_item#slide-01 h1 {width:440px;}
+.onebyone .oneByOne_item#slide-01 h2 {width:440px;}
+.onebyone .oneByOne_item#slide-01 h3 {width:440px;}
 .onebyone .oneByOne_item#slide-01 .ipad {left:562px;z-index:20;top:150px;position:absolute;}
 .onebyone .oneByOne_item#slide-01 .iphone { left:532px;z-index:21;top:235px;position:absolute;}
 .onebyone .oneByOne_item#slide-01 .monitor { left:588px;z-index:15;top:14px;position:absolute;}
@@ -255,9 +255,9 @@
 
 @media only screen and (min-width: 768px) and (max-width: 959px) {
 	.oneByOne1{width: 768px;}
-	.onebyone .oneByOne_item#slide-01 h1 {width:531px;}
-	.onebyone .oneByOne_item#slide-01 h2 {width:283px;}
-	.onebyone .oneByOne_item#slide-01 h3 {width:104px;}
+	.onebyone .oneByOne_item#slide-01 h1 {width:440px;}
+	.onebyone .oneByOne_item#slide-01 h2 {width:440px;}
+	.onebyone .oneByOne_item#slide-01 h3 {width:440px;}
 	.onebyone .oneByOne_item#slide-01 .ipad {left:367px;z-index:20;top:150px;position:absolute;}
 	.onebyone .oneByOne_item#slide-01 .iphone { left:337px;z-index:21;top:235px;position:absolute;}
 	.onebyone .oneByOne_item#slide-01 .monitor { left:393px;z-index:15;top:14px;position:absolute;}
@@ -281,7 +281,7 @@
 	.onebyone .oneByOne_item#slide-03 .iphone {left:350px;top:200px;max-width:70px;}
 	.onebyone .oneByOne_item#slide-03 .laptop { left:318px;z-index:15;max-width:450px;top:30px;position:absolute;}
 	.onebyone .oneByOne_item#slide-03 #left {top:34px;}
-	.onebyone .oneByOne_item#slide-03 .button {top:100px;left:0;}
+	.onebyone .oneByOne_item#slide-03 .button {top:333px;left:0;}
 	.onebyone .oneByOne_item#slide-03 p {max-width:316px;}
 	.onebyone .oneByOne_item#slide-03 h3 {max-width:326px;}
 }

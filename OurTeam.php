@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 TrASNitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-trASNitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
@@ -7,7 +7,7 @@
 <head>
 
 <meta charset="utf-8" />
-<title>ANS Informatics - Unique and Professional Corporate Training </title>
+<title>ASN Informatics - Unique and Professional Corporate Training </title>
 <meta name="description" content="">
 <meta name="author" content="">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
@@ -220,7 +220,7 @@
                                 </div>
 								 <div id="slide-03" class="oneByOne_item" data-bg="images/background-1.jpg">
                                     <div id="left">
-                                    	<h3>ANS Informatics Is A</h3>
+                                    	<h3>ASN Informatics Is A</h3>
                                         <h1><strong>Unique</strong> and <strong>Superior</strong>  IT Training Centre</h1>
                                        	<h2>With Over 30 ITS Professionals!</h2>
                                     </div>
@@ -342,7 +342,7 @@
                                 
                                     <div class="left">
                                        
-                                        <h5>ANS Informatics</h5>
+                                        <h5>ASN Informatics</h5>
                              
                                     </div>
                                 </div>
@@ -379,7 +379,7 @@
                         	<div class="foot-nav-bg"></div>
                             <div class="foot-nav">
                                 <div class="copy">
-                                    Coptyright © 2011-2012 ANS Informatics.
+                                    Coptyright © 2011-2012 ASN Informatics.
                                 </div>
                                 <div class="nav">
                                     <a href="#">Home</a>
